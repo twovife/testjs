@@ -1,3 +1,1 @@
-<script>
-alert('yes')
-</script>
+alert('yes');
