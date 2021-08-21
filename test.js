@@ -1,1 +1,1 @@
-alert('yes');
+document.addEventListener('click',()=>alert('yes'))
